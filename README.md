@@ -1,3 +1,15 @@
+# Google Clone
+
+Google clone using Google's search engine API, based on youtube tutorial from Sonny Sangha.
+
+## Screenshots
+
+Home Page:
+![Home Page](./screenshots/home_page.png)
+
+Search Page:
+![Search Page](./screenshots/search_page.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
